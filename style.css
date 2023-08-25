@@ -1,0 +1,16 @@
+
+ol{
+    display: flex;
+
+}
+li{
+    margin: 50px;
+}
+ p {
+    color: red;
+    font-size: 50px;
+    text-transform: capitalize;
+    text-shadow:1cap;
+    text-align: center;
+
+}
